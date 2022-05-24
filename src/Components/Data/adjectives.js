@@ -66,4 +66,4 @@ const adjectives = [
   ];
 
   
-  export default adjectives
+  export default adjectives;

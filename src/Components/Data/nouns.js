@@ -65,4 +65,4 @@ const nouns = [
     "star",
   ];
 
-  export default nouns
+  export default nouns;
